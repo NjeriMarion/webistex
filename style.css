@@ -1,0 +1,112 @@
+.uppersection{
+    background-image: url(image1.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 20px;
+    border-style: none;
+}
+.topsection{
+    color: chocolate;
+    display: flex;
+    gap: 200px ;
+    border-bottom: 2px;
+    border-bottom: chocolate;
+    font-size: large ;  
+}
+#home{
+    color: rgb(255, 1, 1);
+    font-weight: bold;
+}
+.topsection ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+.searchbar{
+    display: flex;
+    color:black;
+    border-style: none;
+    background-color:lightgray;
+    border-radius: 10%;
+    text-align: center;
+    padding: 10px;
+}
+.iconsleft li{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+.searchbar li{
+    padding-right: 100px;
+}
+.midtext{
+    margin-top: 15%;
+    color: rgb(226, 155, 129);
+    text-align: center;
+    margin-bottom: 10%;
+    font-size: large;
+
+}
+.shopnow{
+    background-color: chocolate;
+    padding: 10px 30px 10px 30px;
+    border-style: none;
+    border-radius: 10%;
+    margin-top: 3%;
+}
+#make{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.secondsection{
+    margin-top: 20px;
+    display: flex;
+    gap: 40px;
+    color:#0b3e47;
+    margin-left: 20%;
+}
+#explore{
+    margin-top: 4%;
+    margin-left: 20%;
+    color:#094a55;
+    font-weight:bolder;
+    font-size: large;
+    margin-bottom: 3%;
+}
+#modern{
+    border-style: none;
+    background-color: coral;
+    text-align: center;
+    padding: 3px;
+    border-radius: 10%;
+}
+.discover{
+    background-color: #ffa94d;
+    border-radius: 15%;
+    margin-left: 43%;
+    margin-top: 2%;
+    padding: 10px 25px 10px 25px;
+    border-style: none;
+}
+#popular{
+    font-weight:bolder;
+    font-size: larger;
+    margin: 30px ;
+    color: #f08c00;    
+}
+#image2{
+    margin-top: 34%;
+}
+#image3{
+    margin-top: 34%;
+}
+.thirdsection{
+    padding-left: 250px;
+    border-style: none;
+    background-color: #0b3e47;
+    display: flex;
+    margin-top: 40px;
+    display: flex;
+    gap: 60px;
+    color:antiquewhite;
+}
